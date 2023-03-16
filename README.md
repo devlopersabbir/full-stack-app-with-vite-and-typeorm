@@ -77,14 +77,15 @@
 This is a full-stack project. And this project was created with [ViteJs](https://vitejs.dev/) for the front end and also for backend [Nodejs](https://nodejs.org/en/). Also, I used [TyprORM](https://typeorm.io/) for database design.
 
 Video available on the youtube
-`https://youtu.be/m3_qqCoLs00`
+```
+https://youtu.be/m3_qqCoLs00
+```
+or [CLICK ME](https://youtu.be/m3_qqCoLs00)
 
 To use this code, you have to just clone this repository with this command and following the below command
 ```
-git clone "url you just copied"
+git clone https://github.com/devlopersabbir/full-stack-app-with-vite-and-typeorm.git
 ```
-
- - `git clone https://github.com/devlopersabbir/full-stack-app-with-vite-and-typeorm.git`
 Now you can see, here have two different folders called `api` and `client`
  - Now, just go to the api folder with `cd api` command and then make a command `yarn` or `npm install` if you are using yarn then you can use just `yarn` otherwise you can use `npm install`.
  - In the same way, you have to change your directory using `cd ../client` then just make `yarn` or `npm install` command. That's it.
